@@ -1,5 +1,5 @@
-SLN-SPcascadingdropdown : COM Cascading dropdown utility for SharePoint 2010
-============================================================================
+SLN-SPcascadingdropdown : jQuery Cascade Dropdown utility for SharePoint 2010
+===============================================================================
 
 Overview
 --------
