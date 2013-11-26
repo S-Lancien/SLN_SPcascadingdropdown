@@ -3,9 +3,12 @@ SLN-SPcascadingdropdown : jQuery Cascade Dropdown utility for SharePoint 2010
 
 Overview
 --------
-SPcascadingdropdown is a Javascript utility which allows you to create Cascade DropDownlists for SharePoint 2010 using the COM(Client Object Model).
-All you need is jQuery (tested with version 1.10.2).
-Multiple levels of Cascade DropdownLists can be used.
+SPcascadingdropdown is a Javascript utility which allows you to create Cascade DropDownLists for SharePoint 2010 using the COM(Client Object Model).
+
+You will be able to use Cascade DropDownLists on a page or a webpart : not only in forms.
+
+- All you need is jQuery (tested with version 1.10.2).
+- Multiple levels of Cascade DropdownLists can be used.
 
 
 Here is a little sample :
