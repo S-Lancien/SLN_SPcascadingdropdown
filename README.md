@@ -15,7 +15,7 @@ Here is a little sample :
 
 ```
 <script type="text/javascript" src="../javascript/jquery-1.10.2.min.js"></script>
-<script type="text/javascript" src="../javascipt/SLN_SPcascadingdropdown.js"></script> 
+<script type="text/javascript" src="../javascript/SLN_SPcascadingdropdown.js"></script> 
  
 <script type="text/javascript"> 
 $(document).ready(function() {
