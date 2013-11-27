@@ -12,8 +12,8 @@
         var defaults = {
             relationshipList: "Cities", //The name of the list which contains the parent/child relationships.
             relationshipParentList: "Countries", //The name of the list which contains the parent items.
-            relationshipParentListColumn: "Title", //The StaticName of the values column in the parent list. 
-            relationshipListChildColumn: "Title", ////The StaticName of the child column in the relationshipList
+            relationshipParentListColumn: "Title", //The StaticName of the values column in the relationshipParentList. 
+            relationshipListChildColumn: "Title", //The StaticName of the child column in the relationshipList
             relationshipListParentColumn: "Country", //The StaticName of the parent column in the relationshipList
             childDropDown: "cities", //The id of the child DropDownList
             autoFillParentDropDownList: true, //True : Fill the parent DropDownList with all ParentList values (set false if you want to keep old selected values)
