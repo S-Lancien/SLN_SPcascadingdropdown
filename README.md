@@ -29,7 +29,7 @@ $(document).ready(function() {
         childdropdown : "cities",
 		autoFillParentDropDownList: true,
 		defaulFillChildDropDownList: true,
-		promptText: "-- Sélectionner Anomalie --"
+		promptText: "-- Select Value --"
     });
 });
 </script>
